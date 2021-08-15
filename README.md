@@ -15,7 +15,7 @@
   * Deploy it to a Kubernetes cluster or run locally using Docker.
 
 
-####Notes
+#### Notes
 * This application uses h2 in-memory database.
 * All the posts are stored in posts.json file which is present in resources/json folder.
 * Upon start-up, all posts get stored to the database.
